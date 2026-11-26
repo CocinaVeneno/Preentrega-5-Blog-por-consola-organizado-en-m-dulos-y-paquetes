@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "titulo": "Workflows con n8n y Webhooks",
+        "contenido": "Cómo recibir datos con un Webhook y procesarlos paso a paso en un workflow de n8n.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Automatización",
+        "tags": [
+            "n8n",
+            "Backend",
+            "JavaScript"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Contenedorización de microservicios con Docker",
+        "contenido": "Cómo empaquetar cada microservicio en su propio contenedor y desplegarlo en un VPS.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "VPS",
+        "tags": [
+            "Docker",
+            "Backend"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Creación de Chatbots avanzados con Botpress",
+        "contenido": "Cómo diseñar flujos de conversación en Botpress y sumarles lógica con JavaScript.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Asistentes Virtuales",
+        "tags": [
+            "Botpress",
+            "JavaScript"
+        ],
+        "estado": "archivado"
+    },
+    {
+        "id": 4,
+        "titulo": "Automatizando tareas repetitivas con Python",
+        "contenido": "Scripts simples en Python para renombrar archivos, leer datos y ahorrar tiempo todos los días.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Python",
+        "tags": [
+            "Python",
+            "Backend"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 5,
+        "titulo": "Agentes de IA conectados a n8n",
+        "contenido": "Cómo sumar un modelo de IA a un workflow para que responda mensajes y tome decisiones.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Inteligencia Artificial",
+        "tags": [
+            "IA",
+            "n8n"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 6,
+        "titulo": "Cómo estoy construyendo este blog",
+        "contenido": "El recorrido del proyecto: de estructuras de datos en Python a una aplicación web con Django.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Blog",
+        "tags": [
+            "Python",
+            "Django"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 7,
+        "titulo": "Primeros pasos con Django",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Django",
+        "tags": [
+            "Python",
+            "Django"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 8,
+        "titulo": "",
+        "contenido": "Post de prueba que quedó sin título.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Pruebas",
+        "tags": [
+            "Backend"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 9,
+        "titulo": "Ideas para próximos posts sobre IA",
+        "contenido": "Temas que quiero escribir más adelante.",
+        "autor": {
+            "nombre": "Lucas Cook",
+            "bio": "Desarrollo de automatización y backend",
+            "especialidad": "Docker, n8n, Botpress y JavaScript",
+            "redes_sociales": {
+                "Instagram": "@Lulu_a_cook",
+                "GitHub": "@CocinaVeneno"
+            }
+        },
+        "categoria": "Inteligencia Artificial",
+        "tags": "IA, Python",
+        "estado": "pendiente"
+    }
+]
